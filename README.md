@@ -4,26 +4,28 @@ Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyuncu
 
 ## Indir
 
-[Windows icin indir - FutbolcuKariyeriSetup.exe](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
+- [Kurulum surumu - FutbolcuKariyeriSetup.exe](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
+- [Tek dosya surum - FutbolcuKariyeri.exe](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeri.exe)
 
 ## Durum
 
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
-[![Son guncelleme](https://img.shields.io/github/release-date/alptugpilgir/FootballCareer-Download?label=Son%20guncelleme&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
+[![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
+- Dagitim: Setup + tek dosya exe
 - Durum: Aktif gelistirme
 
-## One Cikanlar
+## Oyunda Neler Var
 
-- Kendi futbolcunu yarat ve kariyerini sifirdan insa et.
-- Maclar, transferler, medya, sosyal hayat ve yasam tarzi kararlarini yonet.
-- Takim ici rekabet, rol savasi ve kariyer hikayesi ile ilerleyen bir deneyim yasatir.
-- Oyun icinden surum kontrolu ile yeni guncellemeleri takip edebilirsin.
+- Kendi futbolcunu yarat ve kariyerini sifirdan kur.
+- Mac gunleri, antrenman, saglik, transfer ve medya kararlarini yonet.
+- Rol savasi, buyuk maclar ve kariyer yol ayrimlariyla hikayeni sekillendir.
+- Oyun icinden surum kontroluyle guncellemeleri takip et.
 
 ## Hemen Basla
 
-1. Setup dosyasini indir.
-2. Kurulumu tamamla.
-3. Kariyerini olustur ve oynamaya basla.
+1. Kurulum surumunu indir.
+2. Dosyayi calistirip kurulumu tamamla.
+3. Oyunu ac ve kariyerini baslat.
