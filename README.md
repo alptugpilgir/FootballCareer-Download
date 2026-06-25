@@ -1,6 +1,6 @@
 # Futbolcu Kariyeri
 
-Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyunculu futbolcu kariyer oyunu.
+Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha disi kararlarla ilerleyen tek oyunculu futbolcu kariyer oyunu.
 
 ## Indir
 
@@ -22,6 +22,7 @@ Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyuncu
 - Kendi futbolcunu yarat ve kariyerini sifirdan kur.
 - Mac gunleri, antrenman, saglik, transfer ve medya kararlarini yonet.
 - Rol savasi, buyuk maclar ve kariyer yol ayrimlariyla hikayeni sekillendir.
+- Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
 ## Hemen Basla
