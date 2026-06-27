@@ -20,6 +20,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 ## Oyunda Neler Var
 
 - Kendi futbolcunu yarat ve kariyerini sifirdan kur.
+- Mevkini taktik saha ustunden sec, ayak ve oyun yonu tercihlerini ilk kariyer profiline aninda yansit.
 - Mac gunleri, antrenman, saglik, transfer ve medya kararlarini yonet.
 - Rol savasi, buyuk maclar ve kariyer yol ayrimlariyla hikayeni sekillendir.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
