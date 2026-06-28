@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.29`
+- Guncel build: `v0.11.30`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -29,6 +29,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - Posta, piyasa ve hayat akisinda secili kararlarin ana aksiyonlari daha ustte ve daha gorunur kalir.
 - Posta, hoca, basin ve transfer kararlarinda cevaplar artik pozisyona, mac onemine ve son davranis izine gore daha cesitli gelir.
 - Mac gunu merkezi artik ilk 11/yedek/kadro disi durumunu, sahadaki yerini, rakip eslesmesini ve hoca beklentisini tek bakista daha canli hissettirir.
+- Takim merkezi artik ilk 11, yedek, kadro disi ve hazir olmayan cizgisini secili oyuncu karti ve mevki rekabetiyle ayni sakin akis icinde gosterir.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
