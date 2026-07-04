@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.38`
+- Guncel build: `v0.11.39`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -37,7 +37,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.35` ile mac gunu CTA'si artik maci hemen baslatmaz; once ilk 11, yedekler, hazir olmayanlar, rakip eslesmesi ve hoca mesaji olan sinematik kadro sunumu acilir, sonra `MACA GEC` ile simulasyon baslar.
 - `v0.11.36` ile oyun 1920x1080 sabit ekran standardina gecer; `Oyuncum` ekrani profesyonel oyuncu profiline yaklasir ve posta/karar cevaplari baglama yakin sag karar alaninda okunur.
 - `v0.11.37` ile pencere davranisi hotfix'i gelir; oyun artik gercekten sabit 1920x1080 normal pencere olarak acilir ve kullanici tarafinda buyutulup kucultulmez.
-- `v0.11.38` ile piyasa aksiyonlari secili baglama yaklasir, pre-match `MACA GEC` akisi daha gorunur hale gelir, takim saha overlay temizlenir ve transfer kabulunde imza/tanitim hissi haber akisina eklenir.
+- `v0.11.39` ile acilis/continue ekrani secili kariyeri artik poster gibi ozetler; `Bugun` merkezi de buyuk ana CTA, kariyer izi, saglik, piyasa ve forma savasi mini notlariyla daha guclu bir ana kariyer merkezi gibi okunur ama pending posta ve pre-match reveal akisi korunur.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
