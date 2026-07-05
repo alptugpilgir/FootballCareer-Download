@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.42`
+- Guncel build: `v0.11.43`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -40,6 +40,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.39` ile acilis/continue ekrani secili kariyeri artik poster gibi ozetler; `Bugun` merkezi de buyuk ana CTA, kariyer izi, saglik, piyasa ve forma savasi mini notlariyla daha guclu bir ana kariyer merkezi gibi okunur ama pending posta ve pre-match reveal akisi korunur.
 - `v0.11.40` ile global empty-state ve copywriting polish pass geldi; bos alanlar, sparse kariyer dosyalari ve temsilci/mac gunu benzeri akislardaki kuru fallback dili daha profesyonel futbolcu kariyeri tonuna cekildi.
 - `v0.11.42` ile start screen poster/not dengesi ve global typography consistency hotfix'i geldi; acilis ekrani daha temiz hizalanir, workspace ekranlari da `Bugun` ve `Oyuncum` ile ayni tipografik aileye yaklasir.
+- `v0.11.43` ile mac sonu raporu oyuncu odakli hero, hoca/taraftar/basin/kariyer etkisi kartlari, secici dramatik vurgu ve legacy timeline fallback'i koruyan yeni bir okunurluk kazandi; son mac detayi da ayni gorsel rapor diline gecti.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
