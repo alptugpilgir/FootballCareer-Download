@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.46`
+- Guncel build: `v0.11.47`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -44,6 +44,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.44` ile kariyer hafizasi cekirdegi acildi; ilk gol, ilk asist, ilk 11, derbi anlari ve donus adimi gibi secili mac kirilmalari artik kalici olarak kaydoluyor, `Bugun`, `Oyuncum`, `Sezon` ve mac sonu raporu bu izleri ayni premium kariyer diliyle tekrar okuyabiliyor.
 - `v0.11.45` ile Antrenman Merkezi kartli gelisim akisina gecti; haftalik ritim, enerji maliyeti, sakatlik riski, hoca yorumu ve forma savasi etkisi ayni ekranda daha net okunuyor, rehab donusu gibi anlamli adimlar da kariyer hafizasina kontrollu sekilde iz birakabiliyor.
 - `v0.11.46` ile yeni kariyer olusturma ekrani ilk imza hissine yaklasti; oyun tarzi secimi, canli kariyer posteri, premium hata dili, rastgele profil aksiyonu ve ilk kariyer hafizasi iziyle baslangic daha sinematik okunuyor.
+- `v0.11.47` ile transfer ekrani teklif listesinden transfer dosyasina yaklasti; kulup ilgisi, temsilci yorumu, risk/firsat dili, pazarlik asamasi ve imza sonrasi kariyer hafizasi daha canli okunuyor.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
