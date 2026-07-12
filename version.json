@@ -1,7 +1,7 @@
 {
-    "version":  "0.11.50",
+    "version":  "0.11.51",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.50",
-    "release_notes":  "Guncel kurulumlu surum ve tek dosya exe paketi.",
-    "published_at":  "2026-07-11T20:50:40.3152835Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.51",
+    "release_notes":  "Fixed 1920 route resize regression hotfix.",
+    "published_at":  "2026-07-12T08:05:08.5887124Z"
 }
