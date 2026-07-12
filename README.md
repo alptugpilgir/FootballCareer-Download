@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.52`
+- Guncel build: `v0.11.53`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -50,6 +50,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.50` ile taraftar hafizasi ve lakap sistemi geldi; anlamli maclar tribunde iz birakiyor, `Oyuncum` ekraninda tribun kimligi okunuyor ve yeni kulup taraftari transferden sonra ayri basliyor.
 - `v0.11.51` hotfix'i route gecisleri ve ekran ici aksiyonlardan sonra 1920x1080 sabit pencere standardini korur; Antrenman kartlari ve workspace scroll genisligi artik sag tarafa tasma hissi uretmez.
 - `v0.11.52` ile Matchday Drama Pack geldi; secili mac gunu hikayeleri pre-match reveal, Today, timeline, post-match rapor ve kariyer/taraftar hafizasi akislarina kisa ve spam'siz sekilde baglanir.
+- `v0.11.53` ile UI Micro-Interactions & Transition Polish geldi; sidebar rota gecisleri, ana CTA'lar, antrenman kartlari, karar butonlari ve secili satirlar daha net hover/pressed/disabled/active geri bildirimi tasir.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 

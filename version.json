@@ -1,7 +1,7 @@
 {
-    "version":  "0.11.52",
+    "version":  "0.11.53",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.52",
-    "release_notes":  "Matchday Drama Pack: secili mac gunu hikayeleri pre-match reveal, Today, timeline, post-match rapor ve memory akislarina baglandi.",
-    "published_at":  "2026-07-12T08:56:12.0761021Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.53",
+    "release_notes":  "UI Micro-Interactions & Transition Polish: sidebar rota gecisleri, CTA feedback, secili kartlar ve disabled/pressed state'ler daha netlestirildi.",
+    "published_at":  "2026-07-12T12:43:41.0345686Z"
 }
