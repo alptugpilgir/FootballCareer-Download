@@ -1,7 +1,7 @@
 {
-    "version":  "0.11.53",
+    "version":  "0.11.54",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.53",
-    "release_notes":  "UI Micro-Interactions & Transition Polish: sidebar rota gecisleri, CTA feedback, secili kartlar ve disabled/pressed state'ler daha netlestirildi.",
-    "published_at":  "2026-07-12T12:47:12.4569707Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.54",
+    "release_notes":  "Daily Life Personality System: sosyal hayat, yasam tarzi, partner ve karar cevaplari saha disi kimligi sekillendirir; Hayat, Bugun, Oyuncum ve hoca/takim/transfer/antrenman/mac gunu akislarinda kisa karakter sinyali verir.",
+    "published_at":  "2026-07-12T14:06:00.5065437Z"
 }
