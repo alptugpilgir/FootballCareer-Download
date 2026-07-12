@@ -2,6 +2,6 @@
     "version":  "0.11.53",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
     "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.11.53",
-    "release_notes":  "Guncel kurulumlu surum ve tek dosya exe paketi.",
+    "release_notes":  "UI Micro-Interactions & Transition Polish: sidebar rota gecisleri, CTA feedback, secili kartlar ve disabled/pressed state'ler daha netlestirildi.",
     "published_at":  "2026-07-12T12:47:12.4569707Z"
 }
