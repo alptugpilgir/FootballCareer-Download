@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.54`
+- Guncel build: `v0.11.55`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -52,6 +52,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.52` ile Matchday Drama Pack geldi; secili mac gunu hikayeleri pre-match reveal, Today, timeline, post-match rapor ve kariyer/taraftar hafizasi akislarina kisa ve spam'siz sekilde baglanir.
 - `v0.11.53` ile UI Micro-Interactions & Transition Polish geldi; sidebar rota gecisleri, ana CTA'lar, antrenman kartlari, karar butonlari ve secili satirlar daha net hover/pressed/disabled/active geri bildirimi tasir.
 - `v0.11.54` ile Daily Life Personality System geldi; sosyal hayat, yasam tarzi, partner ve karar cevaplari saha disi kimligi yavas sekillendirir, `Hayat`, `Bugun`, `Oyuncum`, hoca/takim/transfer/antrenman/mac gunu akislarinda kisa karakter sinyali verir.
+- `v0.11.55` ile kontrat ve finans sunumu guclendi; `Oyuncum`, `Piyasa`, `Temsilci` ve secici `Bugun` akislarinda maas, kontrat suresi, tahmini piyasa degeri, primler, yenileme sinyali ve temsilci yorumu daha okunur hale geldi.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
