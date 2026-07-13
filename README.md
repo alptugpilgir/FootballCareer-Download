@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.11.56`
+- Guncel build: `v0.11.57`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -54,6 +54,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.54` ile Daily Life Personality System geldi; sosyal hayat, yasam tarzi, partner ve karar cevaplari saha disi kimligi yavas sekillendirir, `Hayat`, `Bugun`, `Oyuncum`, hoca/takim/transfer/antrenman/mac gunu akislarinda kisa karakter sinyali verir.
 - `v0.11.55` ile kontrat ve finans sunumu guclendi; `Oyuncum`, `Piyasa`, `Temsilci` ve secici `Bugun` akislarinda maas, kontrat suresi, tahmini piyasa degeri, primler, yenileme sinyali ve temsilci yorumu daha okunur hale geldi.
 - `v0.11.56` ile kupa vitrini ve basari sunumu guclendi; `Oyuncum > Oduller` mevcut odul, kariyer hafizasi, taraftar lakabi, mac gunu dramasi ve kontrat izlerini tek vitrin diliyle okur, `Sezon` merkezi de bu izleri kisa basari takibi satirlariyla tasir.
+- `v0.11.57` ile Kritik Anlar sistemi geldi; mac gunu niyeti ve en fazla iki kisa oyuncu karari mac skorunu bozmadan post-match rapor, timeline, hoca/taraftar etkisi ve spam'siz hafiza izlerine baglanir.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
