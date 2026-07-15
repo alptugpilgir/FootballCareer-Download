@@ -1,7 +1,7 @@
 {
-    "version":  "0.12.0",
+    "version":  "0.12.1",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.0",
-    "release_notes":  "Dunya Merkezi eklendi: lig gundemi, medya mansetleri, rakip hikayeleri, transfer soylentileri, taraftar nabzi ve oyuncunun karar yankilari tek ekranda toplandi.",
-    "published_at":  "2026-07-14T21:15:29.6565833Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.1",
+    "release_notes":  "Canli Mac 2D saha altyapisi eklendi: QGraphicsView tabanli saha, oyuncu markerlari, top bolgesi, kritik an highlight\u0027i ve secilen karar oku gorsel olarak canli mac akisina baglandi.",
+    "published_at":  "2026-07-15T08:35:40.3659157Z"
 }

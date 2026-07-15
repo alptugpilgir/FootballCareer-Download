@@ -12,7 +12,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 [![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![Son depo guncellemesi](https://img.shields.io/github/last-commit/alptugpilgir/FootballCareer-Download/main?label=Son%20depo%20guncellemesi&color=264653)](https://github.com/alptugpilgir/FootballCareer-Download/commits/main)
 
-- Guncel build: `v0.12.0`
+- Guncel build: `v0.12.1`
 - Platform: Windows
 - Oynanis: Tek oyunculu, offline
 - Dagitim: Setup + tek dosya exe
@@ -61,6 +61,7 @@ Windows icin gelistirilen, yenilenen sinematik koyu arayuzu ile saha ici ve saha
 - `v0.11.61` ile Karar Yankisi sistemi geldi; manuel Canli Mac kararlarinin, antrenman/hayat/kontrat secimlerinin ve mevcut consequence sinyallerinin kariyere ne yazdigi `Bugun`, mac sonu raporu, `Oyuncum`, hedefler, `Piyasa` ve `Hayat` akislarinda kisa satirlarla okunur.
 - `v0.11.62` ile Start Screen sag panel hotfix ve Canli Mac karar secenekleri UX guncellemesi geldi; devam butonu gorunur kalir, kariyer notlari kompakt ozetlenir ve secilen mac ici karar net state ile okunur.
 - `v0.12.0` ile Dunya Merkezi geldi; sol menudeki `Dünya` ekraninda lig gundemi, medya mansetleri, rakip hikayeleri, transfer soylentileri, taraftar nabzi, kulup ici sinyaller ve oyuncunun karar yankisi tek kompakt yasayan futbol dunyasi akisi olarak okunur.
+- `v0.12.1` ile Canli Mac 2D saha altyapisi geldi; saha, oyuncu markerlari, top bolgesi, kritik an highlight'i ve secilen karar oku canli mac akisina gorsel olarak baglanir.
 - Sinematik koyu tema ve premium oyun menusu hissiyle kariyer akisini daha akici takip et.
 - Oyun icinden surum kontroluyle guncellemeleri takip et.
 
