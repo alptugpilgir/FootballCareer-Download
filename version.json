@@ -1,7 +1,7 @@
 {
-    "version":  "0.12.1",
+    "version":  "0.12.2",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.1",
-    "release_notes":  "Canli Mac 2D saha altyapisi eklendi: QGraphicsView tabanli saha, oyuncu markerlari, top bolgesi, kritik an highlight\u0027i ve secilen karar oku gorsel olarak canli mac akisina baglandi.",
-    "published_at":  "2026-07-15T08:40:53.3378549Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.2",
+    "release_notes":  "Contextual Route Workspace Redesign: sol menu ana navigasyon olarak korunurken Antrenman, Mac, Takim, Dunya, Piyasa, Hayat, Sezon ve Oyuncum ekranlari kendi route\u0027larina ozel merkez deneyimine cekildi.",
+    "published_at":  "2026-07-15T09:52:12.1008734Z"
 }
