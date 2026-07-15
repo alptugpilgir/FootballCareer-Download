@@ -1,7 +1,7 @@
 {
-    "version":  "0.12.4",
+    "version":  "0.12.5",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.4",
-    "release_notes":  "Performance, Save Balance \u0026 Asset Pipeline: route snapshot cache, 2D saha update guardrail, asset/font cache, save health kontrolleri ve SQLite index migrationlariyla oyun akisi daha akici ve stabil hale getirildi.",
-    "published_at":  "2026-07-15T15:13:20.7396843Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.12.5",
+    "release_notes":  "Press Conference \u0026 Media Personality Expansion: mac, piyasa, takim ve dunya baglamlarinda basin sorulari, 3 cevap tonu, medya kisiligi ve karar yankisi sistemi eklendi.",
+    "published_at":  "2026-07-15T17:09:38.1711935Z"
 }
