@@ -1,51 +1,45 @@
 # Futbolcu Kariyeri
 
-Kendi futbolcunu oluştur, kariyerini yönet ve saha içi/saha dışı kararlarınla hikâyeni şekillendir.
+Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyunculu futbolcu kariyer oyunu.
 
-**Futbolcu Kariyeri**, Windows için geliştirilen tek oyunculu ve offline bir futbolcu kariyeri simülasyonudur. Antrenmanlara çık, maçlara hazırlan, forma rekabetine gir, medya karşısında karakterini göster, transfer ve kontrat süreçlerini yönet, sezon sonunda kariyer mirasını oluştur.
+## Indir
 
-## İndir
-
-[![Güncel sürüm](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Güncel%20sürüm&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
+[![Guncel surum](https://img.shields.io/github/v/release/alptugpilgir/FootballCareer-Download?display_name=tag&label=Guncel%20surum&color=6b8e23)](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest)
 [![16 Temmuz 2026'dan itibaren indirme](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alptugpilgir/FootballCareer-Download/main/downloads-since-2026-07-16.json)](https://github.com/alptugpilgir/FootballCareer-Download/releases)
 
-> İndirme sayacı 16 Temmuz 2026 başlangıç çizgisine göre tüm release indirmelerini toplar. Yeni sürüm çıktığında sıfırlanmaz.
+> Indirme sayaci 16 Temmuz 2026 baslangic cizgisine gore tum release indirmelerini toplar. Yeni surum ciktiginda sifirlanmaz.
 
-Güncel sürüm: **v0.12.6**
+Guncel surum: **v0.13.0**
 
-- [FutbolcuKariyeriSetup.exe — önerilen kurulum dosyası](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
-- [FutbolcuKariyeri.exe — tek dosya çalıştırılabilir sürüm](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeri.exe)
+- [FutbolcuKariyeriSetup.exe - onerilen kurulum dosyasi](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
+- [FutbolcuKariyeri.exe - tek dosya calistirilabilir surum](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeri.exe)
 
-## Oyun Özellikleri
+## Oyun Ozellikleri
 
-- Kendi futbolcunu oluştur ve kariyerine başla.
-- Antrenman, maç, takım, piyasa, hayat ve sezon kararlarını yönet.
-- Canlı maçlarda 2D saha görünümüyle kritik anları takip et.
-- Basın toplantılarında cevap vererek medya kişiliğini şekillendir.
-- Dünya Merkezi ile lig gündemini, taraftar tepkisini ve piyasa sinyallerini izle.
-- Sezon sonunda kariyer karneni ve oyuncu mirasını gör.
-- Milli takım radarına gir, çağrı al ve uluslararası kariyer yolunu aç.
+- Kendi futbolcunu olustur ve kariyerine basla.
+- Antrenman, mac, takim, piyasa, hayat ve sezon kararlarini yonet.
+- Canli maclarda 2D saha gorunumuyle kritik anlari takip et.
+- Basin toplantilarinda cevap vererek medya kisiligini sekillendir.
+- Dunya Merkezi ile lig gundemini, taraftar tepkisini ve piyasa sinyallerini izle.
+- U21 ve A Milli Takim radar sistemiyle kulup performansinin ulke gundemine yansimasini takip et.
+- Aday kadro, milli takim kampi, temsili uluslararasi maclar ve milli kariyer istatistikleriyle kariyer mirasini buyut.
 
-## Nasıl Oynanır?
+## Nasil Oynanir?
 
-1. Oyunu indir ve çalıştır.
-2. Yeni kariyer oluştur.
-3. Oyuncunun pozisyonunu, kimliğini ve kariyer başlangıcını seç.
-4. Haftaları ilerlet, antrenman yap, maçlara çık ve kararlar al.
-5. Kariyer hikâyeni performansın ve seçimlerinle şekillendir.
+1. Oyunu indir ve calistir.
+2. Yeni kariyer olustur.
+3. Oyuncunun pozisyonunu, kimligini ve kariyer baslangicini sec.
+4. Haftalari ilerlet, antrenman yap, maclara cik ve kararlar al.
+5. Kariyer hikayeni performansin ve secimlerinle sekillendir.
 
 ## Sistem
 
 - Platform: Windows
-- Oynanış: Tek oyunculu
-- Bağlantı: Offline
-- Dağıtım: Setup + tek dosya exe
-- Durum: Aktif geliştirme
+- Oynanis: Tek oyunculu
+- Baglanti: Offline
+- Dagitim: Setup + tek dosya exe
+- Durum: Aktif gelistirme
 
-## Güncellemeler
+## Guncellemeler
 
-Ayrıntılı sürüm notları için [Releases](https://github.com/alptugpilgir/FootballCareer-Download/releases) bölümünü kontrol edebilirsin.
-
-## Not
-
-Bu proje aktif olarak geliştirilmektedir. Yeni sürümlerde kariyer derinliği, maç deneyimi, milli takım sistemi, medya etkileşimleri ve sezon hikâyesi geliştirilmeye devam edecektir.
+Ayrintili surum notlari icin [Releases](https://github.com/alptugpilgir/FootballCareer-Download/releases) bolumunu kontrol edebilirsin.
