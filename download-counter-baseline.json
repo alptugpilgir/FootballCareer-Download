@@ -1,0 +1,5 @@
+{
+  "started_at": "2026-07-16",
+  "baseline_total": null,
+  "note": "İlk workflow çalışmasında mevcut toplam GitHub release download sayısı baseline olarak kaydedilir. Sayaç bundan sonraki toplam indirmeleri gösterir ve yeni sürümlerde sıfırlanmaz."
+}
