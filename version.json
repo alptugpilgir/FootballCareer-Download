@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.0",
+    "version":  "0.13.1",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.0",
-    "release_notes":  "National Team / International Career: U21 ve A Milli Takim radar sistemi, aday kadro ve cagri akisi, milli takim kampi, temsili uluslararasi maclar, milli kariyer istatistikleri ve mevcut kariyer sistemleriyle baglantili uluslararasi miras katmani eklendi.",
-    "published_at":  "2026-07-16T19:00:51.5302353Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.1",
+    "release_notes":  "2D Tactical Identity \u0026 Match Context: Mac oncesi taktik tahtasi, gorev bolgeleri, oyuncu rol kimligi, rakip analizi ve teknik direktor mac plani eklendi.",
+    "published_at":  "2026-07-17T18:31:34.2846837Z"
 }
