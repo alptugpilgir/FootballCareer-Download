@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.1",
+    "version":  "0.13.2",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.1",
-    "release_notes":  "2D Tactical Identity \u0026 Match Context: Mac oncesi taktik tahtasi, gorev bolgeleri, oyuncu rol kimligi, rakip analizi ve teknik direktor mac plani eklendi.",
-    "published_at":  "2026-07-17T18:36:20.1335897Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.2",
+    "release_notes":  "Live 2D Match Flow Foundation: Oyuncularin ve topun hareket ettigi canli 2D mac sunumu, takim sekilleri, temsili atak sekanslari, skorla senkron olay akisi, mac timeline\u0027i ve 1x/2x/4x hiz kontrolleri eklendi.",
+    "published_at":  "2026-07-17T19:55:36.6175730Z"
 }
