@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.2",
+    "version":  "0.13.3",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.2",
-    "release_notes":  "Live 2D Match Flow Foundation: Oyuncularin ve topun hareket ettigi canli 2D mac sunumu, takim sekilleri, temsili atak sekanslari, skorla senkron olay akisi, mac timeline\u0027i ve 1x/2x/4x hiz kontrolleri eklendi.",
-    "published_at":  "2026-07-17T19:58:35.6691763Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.3",
+    "release_notes":  "Interactive Key Moments: Canli 2D macta kritik pozisyonlarin kontrollu bicimde duraklatilmasi, oyuncunun pozisyonuna ve rolune uygun karar secenekleri, kosu/pas/sut onizlemeleri, secimlerin sahada animasyonla uygulanmasi ve karar sonuclarinin rating, hoca plani ve mac raporuna yansitilmasi eklendi.",
+    "published_at":  "2026-07-18T08:09:07.2652726Z"
 }
