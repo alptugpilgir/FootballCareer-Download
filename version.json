@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.5",
+    "version":  "0.13.6",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.5",
-    "release_notes":  "Match Role Tasks \u0026 Manager Match Plan: Teknik direktorun mac plani, role ozel gorevler, canli gorev ilerleme sistemi, devre arasi gorev ozeti, mac sonu teknik direktor degerlendirmesi, Role Discipline, Tactical Discipline ve Match Contribution analizleri eklendi.",
-    "published_at":  "2026-07-18T12:50:47.4280668Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.6",
+    "release_notes":  "Weekly Training Plan: Pazartesi-Pazar haftalik antrenman takvimi, takim ve bireysel calisma secenekleri, yogunluk ve yuk yonetimi, fitness, yorgunluk, keskinlik, mac hazir olusu, sakatlik riski, rol/taktik uyumu, rehabilitasyon plani ve haftalik antrenman raporu eklendi.",
+    "published_at":  "2026-07-18T14:12:55.3131608Z"
 }
