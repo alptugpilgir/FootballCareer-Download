@@ -9,7 +9,7 @@ Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyuncu
 
 > Indirme sayaci 16 Temmuz 2026 baslangic cizgisine gore tum release indirmelerini toplar. Yeni surum ciktiginda sifirlanmaz.
 
-Guncel surum: **v0.13.7**
+Guncel surum: **v0.13.8**
 
 - [FutbolcuKariyeriSetup.exe - onerilen kurulum dosyasi](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
 - [FutbolcuKariyeri.exe - tek dosya calistirilabilir surum](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeri.exe)
@@ -28,6 +28,7 @@ Guncel surum: **v0.13.7**
 - Canli macta hoca planini, role ozel gorevleri ve mac sonu teknik direktor raporunu takip et.
 - Haftalik antrenman planinda yogunluk, toparlanma, rehab ve mac hazir olusunu dengede tut.
 - 2D Antrenman Sahasi'nda drill sirasi, etkilesimli kararlar, hiz kontrolleri ve koc geri bildirimini izle.
+- Temsilci stratejisi, kulup iletisimleri, kiralik rota onerileri ve ana kulup raporlariyla kariyer yolunu daha bilincli planla.
 
 ## Nasil Oynanir?
 

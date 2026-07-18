@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.7",
+    "version":  "0.13.8",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.7",
-    "release_notes":  "2D Training Ground: Weekly Training Plan\u0027dan baslatilan 2D antrenman sahasi, drill sirasi, etkilesimli kararlar, auto-play, pause, hiz kontrolleri, koc geri bildirimi ve tek seferlik TrainingOutcomeResolver baglantisi eklendi.",
-    "published_at":  "2026-07-18T20:35:09.6352490Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.8",
+    "release_notes":  "Agent Strategy \u0026 Loan System: Temsilci stratejisi, kariyer hedefi okumasi, kulup iletisimleri, kiralik rota onerileri, loan lifecycle, ana kulup raporlari ve pending inbox/career memory baglantilari eklendi.",
+    "published_at":  "2026-07-18T22:33:04.0314345Z"
 }
