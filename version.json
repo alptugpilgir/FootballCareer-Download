@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.3",
+    "version":  "0.13.4",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.3",
-    "release_notes":  "Interactive Key Moments: Canli 2D macta kritik pozisyonlarin kontrollu bicimde duraklatilmasi, oyuncunun pozisyonuna ve rolune uygun karar secenekleri, kosu/pas/sut onizlemeleri, secimlerin sahada animasyonla uygulanmasi ve karar sonuclarinin rating, hoca plani ve mac raporuna yansitilmasi eklendi.",
-    "published_at":  "2026-07-18T08:09:07.2652726Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.4",
+    "release_notes":  "Full Match Watch Mode: Mac oncesi giristen son duduge kadar izlenebilir canli 2D mac deneyimi, gelistirilmis kamera ve takim akisi, dogal notr oyun sekanslari, duran toplar, gol kutlamalari, oyuncu degisiklikleri, devre arasi ozeti ve etkilesimli kritik anlarin tam mac yayinina entegrasyonu eklendi.",
+    "published_at":  "2026-07-18T09:19:28.7892294Z"
 }
