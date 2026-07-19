@@ -1,7 +1,7 @@
 {
-    "version":  "0.14.1",
+    "version":  "0.14.2",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.14.1",
-    "release_notes":  "UI/UX Hotfix: Haftalik antrenman plani, selected/loading state, kompakt ve ustte kalan aksiyonlar, gorsel mac gunu tahtasi, Dunya Merkezi detay erisimi, oyuncu durumu overflow duzeltmesi ve Match Engine ile senkron Canli Mac skoru eklendi.",
-    "published_at":  "2026-07-19T12:43:14.0356334Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.14.2",
+    "release_notes":  "Dynamic Squad Status \u0026 Competition: Dinamik kadro statusu, ilk 11 rekabeti, teknik direktor kullanim plani, oynama suresi beklentisi, pozisyon rakipleri ve sezonluk rol degisimleri eklendi.",
+    "published_at":  "2026-07-19T15:58:47.1031245Z"
 }
