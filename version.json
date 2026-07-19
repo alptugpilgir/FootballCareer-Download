@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.8",
+    "version":  "0.13.9",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.8",
-    "release_notes":  "Agent Strategy \u0026 Loan System: Temsilci stratejisi, kariyer hedefi okumasi, kulup iletisimleri, kiralik rota onerileri, loan lifecycle, ana kulup raporlari ve pending inbox/career memory baglantilari eklendi.",
-    "published_at":  "2026-07-18T22:38:14.9482371Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.9",
+    "release_notes":  "Dynamic Transfer Market \u0026 Club AI: Kulup AI stratejileri, kadro ihtiyac analizi, dinamik hedef havuzu, piyasa rekabeti, deger trendi, butce/pazarlik plani, transfer zincirleri ve agent/loan baglantilari eklendi.",
+    "published_at":  "2026-07-19T04:23:51.2933448Z"
 }
