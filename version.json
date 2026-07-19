@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.9",
+    "version":  "0.14.0",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.13.9",
-    "release_notes":  "Dynamic Transfer Market \u0026 Club AI: Kulup AI stratejileri, kadro ihtiyac analizi, dinamik hedef havuzu, piyasa rekabeti, deger trendi, butce/pazarlik plani, transfer zincirleri ve agent/loan baglantilari eklendi.",
-    "published_at":  "2026-07-19T04:28:32.5833482Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.14.0",
+    "release_notes":  "Player Reputation \u0026 World Recognition: Kulup, lig, ulusal, kitasal ve dunya capinda taninirlik dosyasi; itibar boyutlari, momentum/decay, milestone, Oyuncum \u003e Itibar sekmesi ve mevcut mac/odul/milli takim/basin/piyasa baglantilari eklendi.",
+    "published_at":  "2026-07-19T08:21:55.6844716Z"
 }
