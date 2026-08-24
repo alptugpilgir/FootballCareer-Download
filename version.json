@@ -1,7 +1,7 @@
 {
-    "version":  "0.14.3.1",
+    "version":  "0.14.3.2",
     "download_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe",
-    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.14.3.1",
-    "release_notes":  "Complete UI/UX Redesign: Alti ana rota, progressive disclosure, position-aware sunum, lazy 2D gorunumler ve olculmus performans guardrail\u0027leri eklendi.",
-    "published_at":  "2026-08-22T22:52:30.3701333Z"
+    "release_url":  "https://github.com/alptugpilgir/FootballCareer-Download/releases/tag/v0.14.3.2",
+    "release_notes":  "Text-First Football UI Rebuild: Sidebar yerine ust metin navigasyonu, sade satir hiyerarsisi ve dogrudan authoritative mac/antrenman akislari eklendi; ghost pencere ve yapay bosluk sorunlari giderildi.",
+    "published_at":  "2026-08-24T19:19:13.7075946Z"
 }
