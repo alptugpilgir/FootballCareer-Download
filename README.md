@@ -9,7 +9,7 @@ Windows icin gelistirilen, saha ici ve saha disi kararlarla ilerleyen tek oyuncu
 
 > Indirme sayaci 16 Temmuz 2026 baslangic cizgisine gore tum release indirmelerini toplar. Yeni surum ciktiginda sifirlanmaz.
 
-Guncel surum: **v0.14.3.1**
+Guncel surum: **v0.14.3.2**
 
 - [FutbolcuKariyeriSetup.exe - onerilen kurulum dosyasi](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeriSetup.exe)
 - [FutbolcuKariyeri.exe - tek dosya calistirilabilir surum](https://github.com/alptugpilgir/FootballCareer-Download/releases/latest/download/FutbolcuKariyeri.exe)
@@ -18,16 +18,15 @@ Guncel surum: **v0.14.3.1**
 
 - Kendi futbolcunu olustur ve kariyerine basla.
 - Antrenman, mac, takim, piyasa, hayat ve sezon kararlarini yonet.
-- Canli maclarda mac oncesi giristen son duduge kadar 2D saha yayini, olay akisi, timeline, kamera ritmi ve hiz kontrollerini takip et.
-- Kritik pozisyonlarda oyunun durakladigi Interactive Key Moments kararlarini rolune uygun seceneklerle oyna.
+- Maclari mevcut Match Engine ile dogrudan simule et; resmi skor, dakika, puan ve kariyer etkilerini sade mac sonu akisinda oku.
 - Basin toplantilarinda cevap vererek medya kisiligini sekillendir.
 - Dunya Merkezi ile lig gundemini, taraftar tepkisini ve piyasa sinyallerini izle.
 - U21 ve A Milli Takim radar sistemiyle kulup performansinin ulke gundemine yansimasini takip et.
 - Aday kadro, milli takim kampi, temsili uluslararasi maclar ve milli kariyer istatistikleriyle kariyer mirasini buyut.
-- Mac oncesi 2D taktik tahtasinda rolunu, gorev bolgeni, rakip analizini ve hoca planini oku.
-- Canli macta hoca planini, role ozel gorevleri ve mac sonu teknik direktor raporunu takip et.
+- Mac oncesi rolunu, rakip baglamini ve hoca planini kisa metin akisi icinde oku.
+- Pozisyona ozel mac istatistiklerini ve mac sonu teknik direktor raporunu takip et.
 - Haftalik antrenman planinda yogunluk, toparlanma, rehab ve mac hazir olusunu dengede tut.
-- 2D Antrenman Sahasi'nda drill sirasi, etkilesimli kararlar, hiz kontrolleri ve koc geri bildirimini izle.
+- Antrenman hedefini sec, mevcut Training Resolver ile seansi dogrudan tamamla ve gelisim sonucunu oku.
 - Temsilci stratejisi, kulup iletisimleri, kiralik rota onerileri ve ana kulup raporlariyla kariyer yolunu daha bilincli planla.
 - Kulup AI stratejileri, kadro ihtiyac analizi, piyasa rekabeti, deger trendi ve transfer zincirleriyle transfer pazarinin nabzini oku.
 - Kulup, lig, ulusal, kitasal ve dunya capinda taninirlik dosyani `Oyuncum > Itibar` sekmesinde takip et.
@@ -38,6 +37,7 @@ Guncel surum: **v0.14.3.1**
 - v0.14.2 ile dinamik kadro statusunu, teknik direktor kullanim planini, dakika beklentisini ve pozisyon rekabetini `Oyuncum > Kadro Durumu` sekmesinde takip et.
 - v0.14.3 ile gelismis transfer gorusmeleri, belirsizlikli scout raporlari, piyasa degeri, kulup butceleri ve genis kontrat detaylari ayni Piyasa akisinda birlestirildi.
 - v0.14.3.1 ile arayuz Bugun, Kariyer, Takim, Performans, Hayat ve Dunya olmak uzere alti ana rotada sadelestirildi; progressive disclosure, pozisyona gore oyuncu sunumu ve yalniz ihtiyac aninda acilan 2D gorunumlerle daha akici hale getirildi.
+- v0.14.3.2 ile sidebar yerine ust metin navigasyonu, siyah/yesil text-first yuzeyler ve sade satir hiyerarsisi geldi; mac ve antrenmanin 2D sunumlari kaldirilirken mevcut Match Engine ile Training Resolver resmi sonuclarin sahibi olarak korundu.
 
 ## Nasil Oynanir?
 
