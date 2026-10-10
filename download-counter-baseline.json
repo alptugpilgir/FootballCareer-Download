@@ -3,6 +3,6 @@
   "baseline_total": 180,
   "note": "İlk workflow çalışmasında mevcut toplam GitHub release download sayısı baseline olarak kaydedilir. Sayaç bundan sonraki toplam indirmeleri gösterir ve yeni sürümlerde sıfırlanmaz.",
   "initialized_at": "2026-07-16T12:50:10.250250+00:00",
-  "last_total_downloads": 211,
-  "last_checked_at": "2026-10-10T13:38:57.683199+00:00"
+  "last_total_downloads": 213,
+  "last_checked_at": "2026-10-10T18:33:23.146520+00:00"
 }
